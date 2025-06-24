@@ -57,6 +57,3 @@ switch (currentDay) {
         console.log("შაბათი");
         break;
 }
-
-//
-
